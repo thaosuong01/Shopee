@@ -1022,9 +1022,9 @@
     overflow-x: auto;
 }
 
-.mobile-category__list::-webkit-scrollbar {
+/* .mobile-category__list::-webkit-scrollbar {
     display: none;
-}
+} */
 
 .mobile-category__item {
     flex-shrink: 0;
